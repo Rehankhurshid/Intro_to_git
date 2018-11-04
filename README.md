@@ -1,2 +1,1 @@
-# Intro_to_git
-Intro_to_Git
+Just Learning How to use GitHub
